@@ -1,0 +1,30 @@
+# Java Notes Manager (File I/O)
+
+## Description
+A simple Java console app that allows users to:
+- Add notes (append mode)
+- View notes
+- Overwrite notes
+
+## Technologies Used
+- Java (JDK 21)
+- FileWriter
+- FileReader
+- BufferedReader
+- Scanner
+
+## How to Run
+1. Compile:
+   javac NotesManager.java
+2. Run:
+   java NotesManager
+
+## Output File
+- All notes are saved in `notes.txt`
+
+## Concepts Covered
+- File I/O in Java
+- try-with-resources
+- Exception handling
+- Scanner for user input
+
