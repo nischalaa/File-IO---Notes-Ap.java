@@ -1,0 +1,4 @@
+NotesApp/
+├── NotesManager.java
+├── notes.txt               <-- (created automatically)
+├── README.md
